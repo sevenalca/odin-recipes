@@ -1,1 +1,2 @@
 # odin-recipes
+This repo will be dedicated to creating a recipes index page as well as multiple recipes for certain foods listed in this index page. Links will be provided in the index page that will lead to the different recipe's providing a breakdown of how each is made.
